@@ -8,8 +8,8 @@
 #include "seePlusPlus.h"
 #include <stdio.h>
 
-🔟 🎬 👆 🔟 🥐, 📝 🔤 * 🥢 👉 👈 👇
+🔟 🎬 👆 🔟 🔄 🥱 📝 🔤 * 🥢 👉 👈 👇
 👐
     🖨️ 👆 "Hello, World!\n" 👇 🛑
-    🤮 0 🛑
+    🤮 🤟 🛑
 🙏

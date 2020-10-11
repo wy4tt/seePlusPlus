@@ -9,7 +9,7 @@
 #define abbreviations_h
 
 #define 🖨️ printf
-#define 🥐 argc
+#define 🔄 argc
 #define 🥢 argv
 
 #define 👍 true
@@ -22,7 +22,10 @@
 
 #define 🔤 char
 
-#define 📖 "\""
+#define 🖕 1
+#define 🤟 0
+
+#define 🥱 ,
 
 #define 👐 {
 #define 🙏 }
