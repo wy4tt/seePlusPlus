@@ -8,9 +8,32 @@
 #ifndef abbreviations_h
 #define abbreviations_h
 
+#define 🖨️ printf
+#define 🥐 argc
+#define 🥢 argv
+
+#define 👍 true
+#define 👎 false
+
+#define 🔟 int
+#define 🎬 main
+#define 📝 const
+#define 🛑 ;
+
+#define 🔤 char
+
+#define 📖 "\""
+
 #define 👐 {
 #define 🙏 }
+#define 👉 [
+#define 👈 ]
+#define 👆 (
+#define 👇 )
 #define 🤮 return
+
+#define 😵 NULL
+#define 😬 void
 
 
 #endif /* abbreviations_h */
